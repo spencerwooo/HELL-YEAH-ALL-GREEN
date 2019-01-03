@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.loli.net/2019/01/03/5c2e0afc3d65f.png" width="30%"></div>
+<div align="center"><img src="https://i.loli.net/2019/01/03/5c2e0afc3d65f.png" width="25%"></div>
 
 <h1 align="center">HELL YEAH ALL GREEN</h1>
 
