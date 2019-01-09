@@ -29,3 +29,15 @@
 ## 考试！
 
 Four down! One to go. 🐱‍🏍
+
+## 颜色
+
+真实的喜欢蓝色和粉色。
+
+蓝色是 #4d7ea8 这个色号。粉色是 #c492b1。
+
+| <div style="width: 60px; height: 60px; border-radius: 30px; background-color: #4d7ea8;"></div> | <div style="width: 60px; height: 60px; border-radius: 30px; background-color: #c492b1;"></div> |
+|:--:|:--:|
+| #4d7ea8 | #c492b1 |
+
+就像这样。
