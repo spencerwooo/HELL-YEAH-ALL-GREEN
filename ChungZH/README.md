@@ -6,6 +6,12 @@
 
 ## 个人介绍
 
+> 原来是一个小学生呀！
+
+没错，ChungZH 是一个在读五年级小学生，至少在写这段文字的时候。
+
+很弱很弱，实在不值得膜拜。。。
+
 ## 起因
 
 > SpencerWoo 开了这个项目，无趣的 ChungZH 把这个项目 fork 了一份，然后建了这个文件。
@@ -32,3 +38,18 @@
 
 ## ChungZH 最近在肝的事情
 
+下星期期末考！所以！学习！
+
+## ChungZH 在哪里混？
+
+嗯，现在主要在[即刻镇](https://web.okjike.com/user/5755a791-fb07-4b43-807c-3385334195c9/post)混得挺嗨的。
+
+还有就是有空刷刷[逼乎](https://www.zhihu.com/people/chung-zh)，自从入了 Jike town 后就不多玩了。
+
+## ChungZH 的联系方式
+
+[E-Mail](mailto:chung.zh@qq.com) · [QQ](http://wpa.qq.com/msgrd?v=3&uin=124694738&site=qq&menu=yes) 
+
+------
+
+> ChungZH
